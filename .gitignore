@@ -1,0 +1,3 @@
+.vscode/
+notebooks/.*
+*/__pycache__
